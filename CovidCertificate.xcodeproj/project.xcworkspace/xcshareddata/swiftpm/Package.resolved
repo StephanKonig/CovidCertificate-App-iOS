@@ -11,7 +11,7 @@
         }
       },
       {
-        "package": "Cryptor",
+        "package": "BlueCryptor",
         "repositoryURL": "https://github.com/Kitura/BlueCryptor.git",
         "state": {
           "branch": null,
@@ -20,7 +20,7 @@
         }
       },
       {
-        "package": "CryptorECC",
+        "package": "BlueECC",
         "repositoryURL": "https://github.com/Kitura/BlueECC.git",
         "state": {
           "branch": null,
@@ -29,7 +29,7 @@
         }
       },
       {
-        "package": "CryptorRSA",
+        "package": "BlueRSA",
         "repositoryURL": "https://github.com/Kitura/BlueRSA.git",
         "state": {
           "branch": null,
@@ -38,7 +38,7 @@
         }
       },
       {
-        "package": "CovidCertificateSDK",
+        "package": "CovidCertificate-SDK-iOS",
         "repositoryURL": "https://github.com/admin-ch/CovidCertificate-SDK-iOS",
         "state": {
           "branch": "main",
@@ -47,7 +47,7 @@
         }
       },
       {
-        "package": "Gzip",
+        "package": "GzipSwift",
         "repositoryURL": "https://github.com/1024jp/GzipSwift",
         "state": {
           "branch": null,
@@ -56,7 +56,7 @@
         }
       },
       {
-        "package": "jsonlogic",
+        "package": "json-logic-swift",
         "repositoryURL": "https://github.com/admin-ch/json-logic-swift",
         "state": {
           "branch": "master",
@@ -92,7 +92,7 @@
         }
       },
       {
-        "package": "SwiftJWT",
+        "package": "Swift-JWT",
         "repositoryURL": "https://github.com/Kitura/Swift-JWT.git",
         "state": {
           "branch": null,
